@@ -8,14 +8,14 @@ for root, dirs, files in os.walk('share'):
 
 setup_args = {
     'name': 'voila-aiidalab-template',
-    'version': '0.0.1',
+    'version': '0.0.2',
     'packages': [],
     'data_files': data_files,
     'install_requires': [
         'voila>=0.1.6,<0.2'
     ],
     'author': 'Dou Du',
-    'url': 'git@github.com:aiidalab/voila-aiidalab-template'
+    'url': 'https://github.com/aiidalab/voila-aiidalab-template'
 }
 
 if __name__ == '__main__':

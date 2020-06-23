@@ -318,9 +318,8 @@ a.anchor-link {
 
             <hr style="border-top: 0.5px solid #cccccc;">
             <footer class="container">
-              <p>Copyright © 2012-2020 AiiDA. All Rights Reserved.
-                <br>
-                AiiDA is supported by a
+                <p>
+                AiiDA lab is supported by a
                 <a href="http://www.aiida.net/acknowledgements/">number of partners and funding institutions.</a>
                 <br>
                 <div class="logo-container">
