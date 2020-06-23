@@ -3,4 +3,4 @@ pip==20.1.1
 ipywidgets==7.5.1
 IPython==7.8.0
 voila
-voila-aiidalab-template
+voila-aiidalab-template==0.0.2
