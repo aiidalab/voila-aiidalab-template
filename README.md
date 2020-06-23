@@ -2,9 +2,15 @@
 
 ## Try it with Binder!
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/osscar-org/voila-aiidalab-template/develop?urlpath=%2Fvoila%2Frender%2Fexample-notebooks%2Fexample.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/aiidalab/voila-aiidalab-template/develop?urlpath=%2Fvoila%2Frender%2Fexample-notebooks%2Fexample.ipynb)
 
 This is a Voila template for applications developed by the AiiDA lab project.
+
+## Installation
+
+```python
+pip install voila-aiidalab-template
+```
 
 # Acknowlegements
 
