@@ -50,8 +50,8 @@ def user_dir():
 
 class DevelopCmd(develop):
     prefix_targets = [
-        ("nbconvert/templates", 'osscar'),
-        ("voila/templates", 'osscar')
+        ("nbconvert/templates", 'aiidalab'),
+        ("voila/templates", 'aiidalab')
     ]
     def run(self):
         target_dir = os.path.join(sys.prefix, 'share', 'jupyter')
