@@ -3,7 +3,7 @@ import os
 from setuptools import setup
 from setuptools.command.develop import develop
 import contextlib
-from pathlib import Path 
+from pathlib import Path
 
 pjoin = os.path.join
 
