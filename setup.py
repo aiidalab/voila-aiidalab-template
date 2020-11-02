@@ -85,7 +85,7 @@ for (dirpath, dirnames, filenames) in os.walk('share/jupyter/'):
 
 setup(
     name='voila-aiidalab-template',
-    version='0.2.0',
+    version='0.2.1',
     description="Voila template for AiiDAlab project",
     data_files=data_files,
     include_package_data=True,
